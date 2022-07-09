@@ -23,3 +23,4 @@ R2
 ip route 192.168.1.1 255.255.255.0 12.0.0.1
 ip route 192.168.1.0 255.255.255.0 12.0.0.1
 ip route 192.168.1.0 255.255.255.0 13.0.0.1
+![Floating Static Route](https://user-images.githubusercontent.com/106605770/178120866-11824676-d30e-43bc-9536-88a82d44ec84.png)
